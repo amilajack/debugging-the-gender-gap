@@ -1,0 +1,143 @@
+.controls
+{
+    display: none !important;
+}
+li
+{
+    margin: 20px 0 !important;
+}
+
+.reveal .controls
+{
+    right: initial;
+}
+
+section
+{
+    width: 100%;
+}
+
+.steve-jobs,
+.steve-jobs img
+{
+    border: none !important;
+    background: white;
+    box-shadow: none !important;
+}
+
+.steve-jobs img
+{
+    width: 90%;
+}
+
+.spaced-quote
+{
+    line-height: 100px !important;
+}
+
+.black
+{
+    color: black !important;
+}
+
+.white,
+.white *
+{
+    color: white !important;
+}
+
+.bg-black
+{
+    background: rgba(0,0,0,.5);
+}
+
+.hidden
+{
+    display: none;
+}
+
+.str-lower
+{
+    text-transform: initial !important;
+}
+
+.bottom
+{
+    position: absolute !important;
+    bottom: 300px !important;
+}
+
+.text-center
+{
+    display: block !important;
+
+    width: 100%;
+    margin: 0 auto !important;
+
+    text-align: center !important;
+}
+
+.margin-50
+{
+    margin: 50px !important;
+}
+
+.opacity-50
+{
+    opacity: .5;
+}
+
+.opacity-70
+{
+    opacity: .7;
+}
+
+.red-note
+{
+    color: red !important;
+}
+
+.quote
+{
+    line-height: 100px !important;
+}
+
+.text-left
+{
+    text-align: left;
+}
+
+#question-women
+{
+    color: #4b77be !important;
+}
+
+#coder-image
+{
+    display: inline-block !important;
+
+    width: auto;
+    height: 250px;
+    margin-top: 100px !important;
+
+    vertical-align: middle;
+
+    border: none;
+}
+
+#debugging-slide h1
+{
+    width: 100%;
+
+    color: white;
+}
+
+#debugging-slide section
+{
+    width: 100%;
+}
+
+#name
+{
+    color: #aaa !important;
+}
