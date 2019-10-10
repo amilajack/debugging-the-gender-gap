@@ -1,23 +1,19 @@
 {
-  "name": "reveal.js",
+  "name": "debugging-the-gender-gap",
   "version": "2.6.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "description": "My presentation on addressing low percentages of women in the software industry",
+  "homepage": "https://amilajack.github.io/debugging-the-gender-gap/#/debugging-slide",
   "scripts": {
-    "build": "grunt test",
-    "start": ""
-  },
-  "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "lint": "eslint ."
   },
   "engines": {
     "node": "~0.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-bliss": "^4.3.0"
+  },
+  "eslintConfig": {
+    "extends": "bliss"
   }
 }
